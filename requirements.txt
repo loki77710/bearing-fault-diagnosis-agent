@@ -1,0 +1,10 @@
+# ====== PC端开发/测试依赖 ======
+numpy>=1.21.0
+onnxruntime>=1.16.0
+chromadb>=0.4.0
+openai>=1.0.0
+langgraph>=0.0.20
+
+# ====== Jetson端部署依赖（在Jetson上请替换为以下内容） ======
+# onnxruntime-gpu
+# tensorrt
