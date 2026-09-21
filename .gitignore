@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+*.pyc
+episodes_chroma/
+eval_*.json
+*.engine
